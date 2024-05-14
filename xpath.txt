@@ -1,0 +1,22 @@
+	
+	
+//android.widget.ListView[@text='Captions']
+
+
+
+//android.widget.ListView[@text='Captions']
+//android.view.ViewGroup[@content-desc="Full Video: Ranjithame - Varisu (Tamil) | Thalapathy Vijay | Rashmika | Vamshi Paidipally | Thaman S - 5 minutes, 2 seconds - Go to channel - T-Series - 23M views - 3 weeks ago - play video"]/android.widget.ImageView[2]
+
+
+
+	
+
+	
+com.google.android.youtube:id/bottom_sheet_list_view
+
+
+
+	
+/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout
+
+android:id/content
